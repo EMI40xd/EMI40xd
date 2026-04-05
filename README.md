@@ -1,4 +1,6 @@
-# 👋 Hey, soy Emilio (EMIX)
+# 👋 Hey, soy Emilio
+
+![EMI40 banner]()
 
 🎛️ Ingeniero de iluminación
 💻 Usuario de Arch Linux + Hyprland

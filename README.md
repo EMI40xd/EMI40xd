@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey, soy Emilio</h1>
 
-![EMI40 banner](EMI40_banner_1280x640.png)
 
 🎛️ Ingeniero de iluminación
 💻 Usuario de Arch Linux + Hyprland
